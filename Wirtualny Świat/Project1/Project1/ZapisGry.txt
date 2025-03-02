@@ -1,0 +1,20 @@
+20 20 5 1
+Lis 0 11 3 2
+Lis 4 18 3 2
+Wilk 3 12 9 6
+Wilk 7 16 9 6
+Czlowiek 11 11 5 6 0 5
+Antylopa 6 9 4 6
+Antylopa 11 9 4 6
+Owca 2 12 4 6
+Owca 18 0 4 6
+Zolw 5 7 2 6
+Zolw 12 18 2 6
+Trawa 19 8 0 6
+Mlecz 11 3 0 6
+Guarana 0 15 0 6
+Mlecz 10 3 0 2
+Mlecz 12 3 0 2
+Mlecz 11 2 0 1
+Mlecz 9 3 0 1
+Mlecz 12 2 0 1

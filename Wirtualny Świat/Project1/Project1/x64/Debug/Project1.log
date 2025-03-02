@@ -1,0 +1,9 @@
+﻿  Swiat.cpp
+C:\Users\Użytkownik\Desktop\Laby Obiektowe\Wirtualny Świat\Project1\Project1\Wilcza Jagoda.h(2,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Użytkownik\Desktop\Laby Obiektowe\Wirtualny Świat\Project1\Project1\Swiat.cpp(39,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Użytkownik\Desktop\Laby Obiektowe\Wirtualny Świat\Project1\Project1\Swiat.cpp(53,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Użytkownik\Desktop\Laby Obiektowe\Wirtualny Świat\Project1\Project1\Swiat.cpp(59,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Użytkownik\Desktop\Laby Obiektowe\Wirtualny Świat\Project1\Project1\Swiat.cpp(65,8): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+  Zolw.cpp
+  Generowanie kodu...
+  Project1.vcxproj -> C:\Users\Użytkownik\Desktop\Laby Obiektowe\Wirtualny Świat\Project1\x64\Debug\Project1.exe
